@@ -1,2 +1,5 @@
 Contenido de login.html
 Cambio el contenido de login.html
+********************************************
+FINALIZO EL ARCHIVO LOGIN.TXT PARA HACER AHORA GIT FETCH.
+*********************************************************
