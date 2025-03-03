@@ -1,1 +1,2 @@
 Para sincronizar con la rama main local
+Realizo cambios en el archivo sincronizacion.
