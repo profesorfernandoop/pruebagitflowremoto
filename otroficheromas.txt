@@ -1,0 +1,1 @@
+Ahora solo emitiré el comando git status en el local y con eso verifico que solo con eso no puedo saber si está sincronizado.
