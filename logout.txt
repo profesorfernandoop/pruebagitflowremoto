@@ -1,0 +1,2 @@
+Archivo creado una una nueva rama remota creada a partir de develop. 
+El objetivo ahora es llevarla a mi repositorio local.
